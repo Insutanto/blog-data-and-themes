@@ -1,0 +1,72 @@
+{
+  "headerNavigation": [
+    {
+      "name": "主页",
+      "link": "/",
+      "external": false
+    },
+    {
+      "name": "编程",
+      "link": "/category/technology",
+      "external": false
+    },
+    {
+      "name": "摄影",
+      "link": "/category/photography",
+      "external": false
+    },
+    {
+      "name": "随笔",
+      "link": "/category/writing",
+      "external": false
+    },
+    {
+      "name": "思考",
+      "link": "/category/thinking",
+      "external": false
+    },
+    {
+      "name": "关于",
+      "link": "/about",
+      "external": false
+    },
+    {
+      "name": "专题",
+      "link": "#",
+      "children": [
+        {
+          "name": "意识形态",
+          "link": "/tags/ideology",
+          "external": false
+        },
+        {
+          "name": "消费主义",
+          "link": "/tags/consumerism",
+          "external": false
+        }
+      ]
+    }
+  ],
+  "footerNavigation": [
+    {
+      "name": "Latest Posts",
+      "link": "/",
+      "external" : false
+    },
+    {
+      "name": "Facebook",
+      "link": "https://www.facebook.com",
+      "external": true
+    },
+    {
+      "name": "Gridsome",
+      "link": "https://www.gridsome.org",
+      "external": true
+    },
+    {
+      "name": "RSS",
+      "link": "/rss.xml",
+      "external": false
+    }
+  ]
+}

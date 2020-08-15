@@ -1,0 +1,24 @@
+{
+    "social" : [
+        {
+            "name": "Weibo",
+            "link": "#",
+            "icon": "weibo"
+        },
+        {
+            "name": "Github",
+            "link": "#",
+            "icon": "github"
+        },
+        {
+            "name": "Instagram",
+            "link": "#",
+            "icon": "instagram"
+        },
+        {
+            "name": "Twitter",
+            "link": "#",
+            "icon": "twitter"
+        }
+    ]
+}
